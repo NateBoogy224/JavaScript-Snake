@@ -99,7 +99,7 @@ a.snake-link:hover {
     padding: 0px;
     border-width: 0px;
     border-style: none;
-    zoom: 1;
+    zoom: 10;
     background-color: #3E2E44;
     position: relative;
 }
